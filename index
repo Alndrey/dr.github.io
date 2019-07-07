@@ -1,1 +1,18 @@
-
+<html>
+<head>
+<title> С днем рождения! </title>
+</head>
+<body background="Без названия.jpg">
+<center>
+<font color="green">
+<h1>Мама с днем рождения!</h1>
+</font>
+</center>
+<h3><p>Желаю тебе счастья,здоровья</p>
+<p>Успехов на роботе!</p>
+<p>И всего самого наилучшего!</p>
+</h3>
+<audio src="привет.mp3" controls autoplay></audio>
+<img="пр.png" alt="ghb">
+</body>
+</html>
